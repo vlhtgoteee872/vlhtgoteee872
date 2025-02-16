@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm vlhtgoteee872
 
-<!--
-**vlhtgoteee872/vlhtgoteee872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎰 🛹 🎪 Improving my skills in web development 🎰 🛹 🎪
 
-Here are some ideas to get you started:
+## About Me
+🎮 🏑 A programmer in developer advocacy 🎮 🏑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎾 🎧 Passionate about cloud computing 🎾 🎧
+
+### Fun Facts
+🚴 🎽 🚵 A student of full stack development 🚴 🎽 🚵
+
+---
+🏓 🌈 🎬 🏒 🎽 Thanks for visiting my profile! 🎷 🛶 🎰 🎺 🏊
